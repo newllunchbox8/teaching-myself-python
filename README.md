@@ -1,1 +1,1 @@
-# teach-urself-how-2-code
+this repo is just me trying to learn python
