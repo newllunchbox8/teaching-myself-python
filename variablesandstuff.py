@@ -1,3 +1,4 @@
+#say values of favorite fruits then say them in a short conversation if you can even call it that
 value_1 = 'banana'
 value_2 = 'apple'
 print('what is your favorite fruit?')

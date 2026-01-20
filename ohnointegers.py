@@ -1,3 +1,4 @@
+#am i passing script
 passgrhigh = 99
 passgrlow = 70
 failgrlow = 1
